@@ -1,0 +1,17 @@
+Subject: Vendor Hygiene Alert for $vendor
+
+Hi,
+
+This is an automated vendor hygiene alert.
+
+Vendor $vendor has been flagged with status $flag.
+Key metrics:
+- Score: $score
+- Average delivery lag days: $avg_delivery_lag
+- Late PO percentage: $late_po_pct
+- Price coefficient of variation: $price_cv
+
+Please respond with corrective actions and updated ETAs for open POs within 5 business days.
+
+Regards
+Procurement Automation Team
